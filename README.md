@@ -8,4 +8,9 @@ Day1 : ReactQuery의 Doc를 통하여 QuickStart와 유사한 ToDoList 연습
     - addTodoMutation : useMutation 훅을 호출하여 mutate 함수를 통해 addToDo함수를 실행시키는 뮤테이션 객체
     - deleteTodoMutation : useMutation 훅을 호출하여 mutate 함수를 통해 deleteTodo 실행시키는 뮤테이션 객체
   - api/toDo : reactQuery에서 mutationFn과 queryFn으로 사용되는 함수 구현
-  - components/ToDoList :  
+  - components/ToDoList
+
+정리한 블로그 : https://hwigaeng.tistory.com/28
+
+Day2 : Query , QueryKey , QueryFunction , QueryOptions에 대한 정리
+정리한 블로그 : https://hwigaeng.tistory.com/29
